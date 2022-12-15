@@ -11,7 +11,7 @@
 
 #### Frontend
 
-<img alt="frontend" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,svg,js,ts,jquery,react,nextjs" />
+<img alt="frontend" src="https://skillicons.dev/icons?theme=light&perline=9&i=html,css,sass,svg,js,ts,jquery,react,nextjs" />
 
 #### Backend
 <img alt="backend" src="https://skillicons.dev/icons?theme=light&perline=8&i=php,go" />

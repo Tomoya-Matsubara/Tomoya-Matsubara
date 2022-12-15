@@ -1,23 +1,38 @@
 ### Hi there 👋
 
-<p>
-    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=Tomoya-Matsubara&theme=onedark"/>
-    <img alt="GitHub Status" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoya-Matsubara&layout=compact&theme=onedark&show_icons=true"/>
-</p>
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoya-Matsubara&layout=compact&theme=onedark&show_icons=true"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tomoya-Matsubara&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
-**Tomoya-Matsubara/Tomoya-Matsubara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![trophy](https://github-profile-trophy.vercel.app/?username=Tomoya-Matsubara&theme=onedark&column=7)
 
-Here are some ideas to get you started:
+## My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web Application
+
+#### Frontend
+
+<img alt="frontend" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,svg,js,ts,jquery,react,nextjs" />
+
+#### Backend
+<img alt="backend" src="https://skillicons.dev/icons?theme=light&perline=8&i=php,go" />
+
+#### DB & Middleware
+
+<img alt="backend" src="https://skillicons.dev/icons?theme=light&perline=8&i=mysql,sqlite,wordpress,nginx,ansible,aws" />
+
+## Mobile Application
+
+<img alt="mobile" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,kotlin,androidstudio,swift," />
+
+## Game
+
+<img alt="game" src="https://skillicons.dev/icons?theme=light&perline=8&i=cpp,unity,blender" />
+
+## Machine Learning
+
+<img alt="machine learning" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,tensorflow,pytorch" />
+
+## Others
+
+<img alt="others" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,rust,matlab" />
+

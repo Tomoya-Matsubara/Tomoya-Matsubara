@@ -26,7 +26,7 @@
 
 ## Game
 
-<img alt="game" src="https://skillicons.dev/icons?theme=light&perline=8&i=cpp,unity,blender" />
+<img alt="game" src="https://skillicons.dev/icons?theme=light&perline=8&i=cs,unity,blender" />
 
 ## Machine Learning
 
